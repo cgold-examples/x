@@ -5,7 +5,7 @@
 namespace x {
 
 void x::Run() {
-  std::cout << "x say: nice" << std::endl;
+  std::cout << "x say: good" << std::endl;
 }
 
 } // namespace x
